@@ -17,6 +17,7 @@ public class ChessMatch {
 			}
 		}
 		return mat;
+		
 	}
 
 }
